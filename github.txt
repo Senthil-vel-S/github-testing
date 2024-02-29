@@ -2,3 +2,4 @@ Welcome to Github
 Here we learn about Git and Github
 Also how to code in git terminal
 Here we know how to use git.
+It is very important for a developer.
